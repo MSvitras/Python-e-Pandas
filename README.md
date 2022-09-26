@@ -1,3 +1,3 @@
 # Python-e-Pandas
 
-Análise exlorat
+Análise explorat
